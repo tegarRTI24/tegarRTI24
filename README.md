@@ -6,7 +6,7 @@ Greetings for everyone, my name is **Ramadhan Tegar Imansyah**.<br>
 
 I am a **Mechatronics Engineering Student** at **EEPIS** or as we know Electronic Engineering Polytechnic Institute of Surabaya.<br>
 
-I'm a mechatronic engineering student who always wants to encourage myself to learn something new, has a big desire to learn, and adaptable.<br>I am interested in 3D CAD mechanical design, programming, electronics, and have some expertise in that field.<br>At college, I want to shape my skills to be sharper, so I can implement my knowledge to practical experience and assist to change the future.<br>
+I'm a mechatronic engineering student who always wants to encourage myself to learn something new, has a big desire to learn, and adaptable.I am interested in 3D CAD mechanical design, programming, electronics, and have some expertise in that field.At college, I want to shape my skills to be sharper, so I can implement my knowledge to practical experience and assist to change the future.<br>
 
 If you are interested in getting to know me, please follow my [LinkedIn](www.linkedin.com/in/ramadhantegarimansyah) account.<br>
 
