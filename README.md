@@ -1,12 +1,17 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
+
+<div style="text-align:justify">
 
 Greetings for everyone, my name is **Ramadhan Tegar Imansyah**.<br>
 
-I am **mechatronics engineering student** at **EEPIS** or as we know Electronic Engineering Polytechnic Institute of Surabaya.<br>
+I am a **Mechatronics Engineering Student** at **EEPIS** or as we know Electronic Engineering Polytechnic Institute of Surabaya.<br>
 
-I'm a mechatronic engineering student who always want to encorauge my self to learn something new, has a big desire to learn, and adaptible.<br>I interested in 3D CAD mechanical design, programming, electronic and have some expertise in that field.<br>At college, i want to shape my skill to more sharpen, so i can implemented my knowledge to the practical experience and assist to change the future.<br>
+I'm a mechatronic engineering student who always wants to encourage myself to learn something new, has a big desire to learn, and adaptable.<br>I am interested in 3D CAD mechanical design, programming, electronics, and have some expertise in that field.<br>At college, I want to shape my skills to be sharper, so I can implement my knowledge to practical experience and assist to change the future.<br>
 
-If you are interested in getting to know me, please follow my [Linkedin]www.linkedin.com/in/ramadhantegarimansyah account.<br>
+If you are interested in getting to know me, please follow my [LinkedIn](www.linkedin.com/in/ramadhantegarimansyah) account.<br>
+
+</div>
+
 <!--
 **tegarRTI24/tegarRTI24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
